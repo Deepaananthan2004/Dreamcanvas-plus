@@ -13,3 +13,4 @@ soundfile
 numpy
 colorthief
 scikit-learn
+moviepy.editor
