@@ -9,3 +9,5 @@ transformers
 accelerate
 soundfile
 numpy
+colorthief
+scikit-learn
