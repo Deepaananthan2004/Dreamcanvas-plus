@@ -2,6 +2,8 @@ streamlit
 pillow
 opencv-python
 moviepy
+imageio
+imageio-ffmpeg
 torch
 torchvision
 diffusers
